@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1619898624 source:c:\users\sarah hesham\onedrive\documents\c++\20198047_b3\src\myterminal.cpp
+	"MyTerminal.h"
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<sys/stat.h>
+	<cstring>
+
+1619892777 c:\users\sarah hesham\onedrive\documents\c++\20198047_b3\include\myterminal.h
+
+1619894205 source:c:\users\sarah hesham\onedrive\documents\c++\20198047_b3\main.cpp
+	<iostream>
+	"MyTerminal.h"
+
+1619892777 c:\users\sarah hesham\onedrive\documents\c++\20198047_b3\myterminal.h
+
